@@ -131,7 +131,6 @@
 	<!--<haxelib name="polymod"/> -->
 	<haxelib name="hxdiscord_rpc" if="desktop"/>
 	<!-- <haxelib name="hxcpp-debug-server" if="desktop"/> -->
-        <haxelib name="AndroidTools" if="android"/>
 
         <config:android permission="android.permission.READ_EXTERNAL_STORAGE" if="android"/>
         <config:android permission="android.permission.WRITE_EXTERNAL_STORAGE" if="android"/>
